@@ -9,6 +9,7 @@ public class Main {
             System.out.println(numToExamine + " is even");
         } else {
             System.out.println(numToExamine + " is odd");
+
         }
     }
 }
